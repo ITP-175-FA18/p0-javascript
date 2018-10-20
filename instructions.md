@@ -48,4 +48,4 @@ After completing the 5 exercises, you're ready to move onto submission.
 [//]: # (References)
 [1]: https://itp175fa18.slack.com/messages/CD8SYN9K6
 [2]: https://i.ytimg.com/vi/_9qh-9CG3w0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA3hpImIHi4Uml_QPtg7mI-q-dfkA
-[3]: https://www.youtube.com/watch?v=_9qh-9CG3w0&t=5s
+[3]: https://www.youtube.com/watch?v=_9qh-9CG3w0
