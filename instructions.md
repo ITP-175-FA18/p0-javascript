@@ -2,10 +2,14 @@
 
 This project contains 5 JavaScript exercises for you to complete. Each exercise has its own instructions located in a separate .js file.
 
+[A video walkthrough of these instructions is available on Youtube][3]
+
+[![2]][3]
+
 ## Project Setup
 
-1. [Join the the `#p0-javascript` Slack channel][1] and click the link and accept the `p0-javascript` assignment to create a version of the repository for you.
-1. Create a new `hello-webpage` project on glitch and open the glitch project for editing
+1. [Join the the `#p0-javascript` Slack channel][1] and click the link and accept the `p0-javascript` assignment on Github.
+1. Head over to glitch.com and create a new `hello-webpage` project. Open the glitch project for editing
 1. Click the name of your glitch project in the upper left and choose `advanced options` from the dropdown
     1. If the Import from Github button is greyed out, click the `grant access` link
     1. Click the `Authorize FogCreek` button to give Glitch access to your Github
@@ -43,3 +47,5 @@ After completing the 5 exercises, you're ready to move onto submission.
 
 [//]: # (References)
 [1]: https://itp175fa18.slack.com/messages/CD8SYN9K6
+[2]: https://i.ytimg.com/vi/_9qh-9CG3w0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA3hpImIHi4Uml_QPtg7mI-q-dfkA
+[3]: https://www.youtube.com/watch?v=_9qh-9CG3w0&t=5s
