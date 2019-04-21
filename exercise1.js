@@ -9,7 +9,7 @@ console.log('Exercise 1 Start');
     and the sum of test3 and test4.    
 */
 
-let test1 = 6;
+let test1 = 5;
 let test2 = 87;
 let test3 = 486;
 let test4 = -40;
